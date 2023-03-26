@@ -30,4 +30,5 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 ```
 
 Screenshot of the swagger api documentation
-!(swagger_screenshot.png)
+
+![Swagger api doc](swagger_screenshot.png)
