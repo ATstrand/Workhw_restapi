@@ -2,6 +2,13 @@
 
 This is a simple Rest-API for storing information about devices and their attachments. For a scenario where you have many diffrent devices spread out in a location, and need to keep track on what I/O they have. The whole project is based on multiple available tutorials on dotnet.
 
+Devices= devices
+
+Extra= Attachments to devices, input/output
+
+Application= software/apps installed on the device, in this case sender/receiver
+
+
 
 -Framework: ASP.NET
 
