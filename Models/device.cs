@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 namespace _24._03workapp.Models;
-
+// Model for devices
 public class Device
 {
     public int Id { get; set; }

@@ -3,7 +3,7 @@ using _24._03workapp.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace _24._03workapp.Services;
-
+//service for applying calls to database via context
 public class DeviceService
 {
     private readonly DeviceContext _context;

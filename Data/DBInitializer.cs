@@ -1,7 +1,7 @@
 using _24._03workapp.Models;
 
 namespace _24._03workapp.Data;
-
+// Fill database with some starter devices
     public static class DBInitializer
     {
         public static void Initialize(DeviceContext context)

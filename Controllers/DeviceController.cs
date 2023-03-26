@@ -3,7 +3,7 @@ using _24._03workapp.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _24._03workapp.Controllers;
-
+// controller for GET, PUT, POST calls => look in service and context for db calls
 [ApiController]
 [Route("[controller]")]
 public class DeviceController : ControllerBase
