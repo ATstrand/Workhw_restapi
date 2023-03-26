@@ -1,2 +1,13 @@
-# Workhw_restapi
-Work Application homework
+# Work Application homework
+
+This is a simple Rest-API for storing information about devices and their attachments. For a scenario where you have many diffrent devices spread out in a location, and need to keep track on what I/O they have. The whole project is based on multiple available tutorials on dotnet.
+
+
+-Framework: ASP.NET
+-Data access: Entity Framework Core
+-Database: SQLite
+-API documentation : Swagger at address/swagger
+-Database migrations
+
+
+This build is to be run locally.
