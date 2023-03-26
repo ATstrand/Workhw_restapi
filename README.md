@@ -16,13 +16,18 @@ This is a simple Rest-API for storing information about devices and their attach
 
 
 This build is to be run locally.
-
+```
 dotnet run
-
+```
 
 
 
 this would be all extra added.
+```
 dotnet tool install -g Microsoft.dotnet-httprepl
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
- dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Design
+```
+
+Screenshot of the swagger api documentation
+!(swagger_screenshot.png)
