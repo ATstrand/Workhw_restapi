@@ -4,10 +4,25 @@ This is a simple Rest-API for storing information about devices and their attach
 
 
 -Framework: ASP.NET
+
 -Data access: Entity Framework Core
+
 -Database: SQLite
--API documentation : Swagger at address/swagger
+
+-API documentation : Swagger at [address]/swagger
+
 -Database migrations
 
 
+
 This build is to be run locally.
+
+dotnet run
+
+
+
+
+this would be all extra added.
+dotnet tool install -g Microsoft.dotnet-httprepl
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+ dotnet add package Microsoft.EntityFrameworkCore.Design
